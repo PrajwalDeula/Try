@@ -5,7 +5,7 @@ const getCharacterData = () => {
             setTimeout[resolve({id:1, name:'Prajwal'}), 1000];
         }
         else{
-            return reject('kick this butt');
+            return reject('Alright');
         }
 
     }
